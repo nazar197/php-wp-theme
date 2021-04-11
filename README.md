@@ -12,13 +12,19 @@
   - Title: "We Are Rocking This World"
   - Section Popular News: 4 latest posts with tag #hot from category News
   - Section Important with 4 latest posts from the appropriate taxonomy
-  - Section Ukraine with 8 latest posts (in 2 rows) tagged #Ukraine (additionaly show Region value under the title).
-  All cards(featured image + post title) should be linked to appropriate page.
+  - Section Ukraine with 8 latest posts (in 2 rows) tagged #Ukraine (additionaly show Region value under the title). 
+  
+  * All cards(featured image + post title) should be linked to appropriate page.
+
 8. Create in the admin panel Frontpage and set your template to it
 9. Change your homepage to static Frontpage
 
 ---
 
-[Demo](http://php-hw-6.tmweb.ru/)
+The TwentyNineteen theme was selected as a parent theme.
 
----
+For generating posts I've used the FakerPress plugin and the ACF – for a dropdown custom field.
+
+The project has been deployed on a hosting. 
+
+[Demo](http://php-hw-6.tmweb.ru/)
