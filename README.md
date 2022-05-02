@@ -24,7 +24,3 @@
 The TwentyNineteen theme was selected as a parent theme.
 
 For generating posts I've used the FakerPress plugin and the ACF – for a dropdown custom field.
-
-The project has been deployed on a hosting. 
-
-[Demo](http://php-hw-6.tmweb.ru/)
